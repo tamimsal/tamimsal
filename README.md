@@ -22,8 +22,8 @@ Looking forward to connecting with you! 😄
 
 ## 📈 Most Used Language
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hazem237&layout=compact)](https://github.com/tamimsal)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tamimsal&layout=compact)](https://github.com/tamimsal)
 
 ## 📈 GitHub Stats
 
-[![Hazem's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hazem237&show_icons=true&count_private=true&hide=prs&theme=radical)](https://github.com/tamimsal)
+[![Hazem's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tamimsal&show_icons=true&count_private=true&hide=prs&theme=radical)](https://github.com/tamimsal)
