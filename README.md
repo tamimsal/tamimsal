@@ -1,16 +1,29 @@
-### Hi there 👋
+# 👨‍💻 Welcome to Tamim Salhab's GitHub Profile! 👋
 
-<!--
-**tamimsal/tamimsal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello there! I'm Tamim Salhab
 
-Here are some ideas to get you started:
+## 📄 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Computer Engineering Student
+
+If you want to know more about my professional experience and projects, feel free to check out my [CV](https://docs.google.com/document/d/1J0lnQXCOVu0fES0KkMyb6H3YJd2CGwVL1WyY67F1_0M/edit?usp=sharing).
+
+## 📱 Contact
+
+You can find me on various social media platforms. Don't hesitate to connect with me!
+
+- LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/tamimsall/)
+
+📫 **How to Reach Me:**
+- Email: taSalhab@gmail.com
+  
+If you'd like to collaborate, have any questions, or just want to say hi, feel free to reach out to me through email or any of the social media platforms mentioned above.
+Looking forward to connecting with you! 😄
+
+## 📈 Most Used Language
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hazem237&layout=compact)](https://github.com/tamimsal)
+
+## 📈 GitHub Stats
+
+[![Hazem's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hazem237&show_icons=true&count_private=true&hide=prs&theme=radical)](https://github.com/tamimsal)
