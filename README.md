@@ -19,8 +19,3 @@ You can find me on various social media platforms. Don't hesitate to connect wit
   
 If you'd like to collaborate, have any questions, or just want to say hi, feel free to reach out to me through email or any of the social media platforms mentioned above.
 Looking forward to connecting with you! 😄
-
-
-## 📈 GitHub Stats
-
-[![Hazem's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tamimsal&show_icons=true&count_private=true&hide=prs&theme=radical)](https://github.com/tamimsal)
