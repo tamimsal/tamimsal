@@ -3,7 +3,7 @@
 Hello there! I'm Tamim Salhab
 
 ## 📄 About Me
-
+- 💻 Back end intern at ASAL
 - 🎓 Computer Engineering Student
 
 If you want to know more about my professional experience and projects, feel free to check out my [CV](https://docs.google.com/document/d/1J0lnQXCOVu0fES0KkMyb6H3YJd2CGwVL1WyY67F1_0M/edit?usp=sharing).
