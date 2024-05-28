@@ -20,4 +20,4 @@ You can find me on various social media platforms. Don't hesitate to connect wit
 If you'd like to collaborate, have any questions, or just want to say hi, feel free to reach out to me through email or any of the social media platforms mentioned above.
 Looking forward to connecting with you! 😄
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tamimsal&show_icons=true&locale=en&layout=compact" alt="tamimsal" /></p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tamimsal&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
